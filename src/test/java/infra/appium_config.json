@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "RF8N801TMVA",
+  "appium:platformVersion": "13.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.claudivan.taskagenda",
+  "appium:appActivity": ".Activities.MainActivity"
+}
